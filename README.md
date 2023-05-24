@@ -1,8 +1,9 @@
-## Swiftic
+## Flutter
 
-- Descripción: Swiftic es un framework para el desarrollo de aplicaciones móviles nativas en iOS. Utiliza el lenguaje de programación Swift, desarrollado por Apple, y proporciona herramientas y componentes para facilitar la creación de aplicaciones.
-- Lenguaje de programación base: Swift
-- Página oficial: [Swiftic](https://www.swiftic.com/)
-- Repositorio de ejemplos: No disponible
-- Creador: Swiftic Ltd.
-- Mantenido por: Swiftic Ltd.
+- Descripción: Flutter es un framework de código abierto desarrollado por Google. Permite crear aplicaciones móviles nativas y de alta calidad para Android y iOS desde un solo código base.
+- Lenguaje de programación base: Dart
+- Página oficial: [Flutter](https://flutter.dev/)
+- Repositorio de ejemplos: [Ejemplos de Flutter](https://github.com/flutter/samples)
+- Creador: Google
+- Mantenido por: Google
+- Fecha de creación: Mayo de 2017
