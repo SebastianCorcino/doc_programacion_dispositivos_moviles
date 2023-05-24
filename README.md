@@ -81,7 +81,3 @@ Swiftic es un framework para el desarrollo de aplicaciones móviles nativas en i
 - Creador: Microsoft
 - Mantenido por: Microsoft
 - Fecha de creación: 2011
-
-```
-
-```
