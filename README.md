@@ -1,9 +1,9 @@
-## Flutter
+## Ionic
 
-- Descripción: Flutter es un framework de código abierto desarrollado por Google. Permite crear aplicaciones móviles nativas y de alta calidad para Android y iOS desde un solo código base.
-- Lenguaje de programación base: Dart
-- Página oficial: [Flutter](https://flutter.dev/)
-- Repositorio de ejemplos: [Ejemplos de Flutter](https://github.com/flutter/samples)
-- Creador: Google
-- Mantenido por: Google
-- Fecha de creación: Mayo de 2017
+- Descripción: Ionic es un framework de desarrollo de aplicaciones móviles híbridas basado en web. Utiliza tecnologías web estándar como HTML, CSS y JavaScript para crear aplicaciones que se ejecutan tanto en iOS como en Android.
+- Lenguaje de programación base: JavaScript
+- Página oficial: [Ionic](https://ionicframework.com/)
+- Repositorio de ejemplos: [Ejemplos de Ionic](https://github.com/ionic-team/ionic-docs/tree/main/src/demos)
+- Creador: Max Lynch, Ben Sperry y Adam Bradley
+- Mantenido por: Ionic Team
+- Fecha de creación: Noviembre de 2013
