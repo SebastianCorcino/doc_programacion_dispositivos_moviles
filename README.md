@@ -36,25 +36,41 @@ Este repositorio contiene información sobre varios frameworks populares utiliza
   3. Hot Reload
 
   Ejemplo:
-  ![img](https://i.imgur.com/G55hqfj.png[/img])
+
+  ```jsx
+  const YourApp = () => {
+    return (
+      <View
+        style={{
+          flex: 1,
+          justifyContent: "center",
+          alignItems: "center",
+        }}
+      >
+        <Text>Try editing me! 🎉</Text>
+      </View>
+    );
+  };
+  export default YourApp;
+  ```
 
 - ## [Ionic](https://github.com/SebastianCorcino/doc_programacion_dispositivos_moviles/tree/Ionic)
 
-  ![NodePing status](https://img.shields.io/nodeping/status/jkiwn052-ntpp-4lbb-8d45-ihew6d9ucoei)
+![NodePing status](https://img.shields.io/nodeping/status/jkiwn052-ntpp-4lbb-8d45-ihew6d9ucoei)
 
-  Ionic es un framework de desarrollo de aplicaciones móviles híbridas que ofrece varias características distintivas. Aquí están algunas de las características clave de Ionic:
+Ionic es un framework de desarrollo de aplicaciones móviles híbridas que ofrece varias características distintivas. Aquí están algunas de las características clave de Ionic:
 
-  1. Integración con Angular
-  2. UI preestilizada y componentes reutilizables
-  3. Basado en tecnologías web
+1. Integración con Angular
+2. UI preestilizada y componentes reutilizables
+3. Basado en tecnologías web
 
 - ## [Swiftic](https://github.com/SebastianCorcino/doc_programacion_dispositivos_moviles/tree/Swiftic)
 
-  Swiftic es un framework para el desarrollo de aplicaciones móviles nativas en iOS. Aqui algunas de sus caracteristicas.
+Swiftic es un framework para el desarrollo de aplicaciones móviles nativas en iOS. Aqui algunas de sus caracteristicas.
 
-  1. Construcción de aplicaciones nativas
-  2. Soporte y análisis
-  3. Amplia gama de plantillas
+1. Construcción de aplicaciones nativas
+2. Soporte y análisis
+3. Amplia gama de plantillas
 
 ## Xamarin
 
@@ -65,3 +81,7 @@ Este repositorio contiene información sobre varios frameworks populares utiliza
 - Creador: Microsoft
 - Mantenido por: Microsoft
 - Fecha de creación: 2011
+
+```
+
+```
