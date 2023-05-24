@@ -1,9 +1,9 @@
-## React Native
+## Xamarin
 
-- Descripción: React Native es un framework desarrollado por Facebook que permite crear aplicaciones móviles nativas utilizando JavaScript y React. Permite compartir la lógica de negocio entre plataformas, lo que agiliza el desarrollo para Android y iOS.
-- Lenguaje de programación base: JavaScript
-- Página oficial: [React Native](https://reactnative.dev/)
-- Repositorio de ejemplos: [Ejemplos de React Native](https://github.com/facebook/react-native/tree/main/Examples)
-- Creador: Facebook
-- Mantenido por: Facebook y la comunidad de desarrolladores
-- Fecha de creación: Marzo de 2015
+- Descripción: Xamarin es un conjunto de herramientas de desarrollo de aplicaciones móviles de Microsoft. Permite crear aplicaciones nativas para Android, iOS y Windows utilizando el lenguaje de programación C# y el entorno de desarrollo de .NET.
+- Lenguaje de programación base: C#
+- Página oficial: [Xamarin](https://dotnet.microsoft.com/apps/xamarin)
+- Repositorio de ejemplos: [Ejemplos de Xamarin](https://github.com/xamarin/xamarin-forms-samples)
+- Creador: Microsoft
+- Mantenido por: Microsoft
+- Fecha de creación: 2011
