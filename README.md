@@ -8,11 +8,11 @@ Este repositorio contiene información sobre varios frameworks populares utiliza
 
 - ## [Flutter](https://github.com/SebastianCorcino/doc_programacion_dispositivos_moviles/tree/Flutter)
 
-  Flutter tiene varias características interesantes y únicas que lo hacen destacar como framework de desarrollo de aplicaciones móviles. Aquí hay algunas características curiosas de Flutter:
+Flutter tiene varias características interesantes y únicas que lo hacen destacar como framework de desarrollo de aplicaciones móviles. Aquí hay algunas características curiosas de Flutter:
 
-  1.  Hot Reload
-  2.  Widgets estilables
-  3.  Compatibilidad con plataformas múltiples
+1. Hot Reload
+2. Widgets estilables
+3. Compatibilidad con plataformas múltiples
 
 ---
 
@@ -21,38 +21,38 @@ Este es su twitter oficial ->
 
 - ## [Xamarin](https://github.com/SebastianCorcino/doc_programacion_dispositivos_moviles/tree/Ionic)
 
-  Xamarin, respaldado por Microsoft, es un framework de desarrollo de aplicaciones móviles con características distintivas. A continuación se presentan algunas de las características clave de Xamarin:
+Xamarin, respaldado por Microsoft, es un framework de desarrollo de aplicaciones móviles con características distintivas. A continuación se presentan algunas de las características clave de Xamarin:
 
-  1.  Lenguaje de programación C#
-  2.  Gran comunidad y soporte
-  3.  Integración con el ecosistema de Microsoft
+1. Lenguaje de programación C#
+2. Gran comunidad y soporte
+3. Integración con el ecosistema de Microsoft
 
 - ## [React Native](https://github.com/SebastianCorcino/doc_programacion_dispositivos_moviles/tree/ReactNative)
 
-  React Native es un popular framework de desarrollo de aplicaciones móviles que tiene varias características destacadas. A continuación se presentan algunas de las características clave de React Native:
+React Native es un popular framework de desarrollo de aplicaciones móviles que tiene varias características destacadas. A continuación se presentan algunas de las características clave de React Native:
 
-  1.  Basado en componentes
-  2.  Escritura en JavaScript
-  3.  Hot Reload
+1. Basado en componentes
+2. Escritura en JavaScript
+3. Hot Reload
 
-  Ejemplo:
+Ejemplo:
 
-  ```jsx
-  const YourApp = () => {
-    return (
-      <View
-        style={{
-          flex: 1,
-          justifyContent: "center",
-          alignItems: "center",
-        }}
-      >
-        <Text>Try editing me! 🎉</Text>
-      </View>
-    );
-  };
-  export default YourApp;
-  ```
+```jsx
+const YourApp = () => {
+  return (
+    <View
+      style={{
+        flex: 1,
+        justifyContent: "center",
+        alignItems: "center",
+      }}
+    >
+      <Text>Try editing me! 🎉</Text>
+    </View>
+  );
+};
+export default YourApp;
+```
 
 - ## [Ionic](https://github.com/SebastianCorcino/doc_programacion_dispositivos_moviles/tree/Ionic)
 
