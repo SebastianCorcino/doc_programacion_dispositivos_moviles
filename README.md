@@ -161,3 +161,11 @@ Template Method es un patrón de diseño de comportamiento que define el esquele
 - ## Visitor
 
 Visitor es un patrón de diseño de comportamiento que te permite separar algoritmos de los objetos sobre los que operan.
+
+# Redux
+
+Redux es una biblioteca de administración de estado para aplicaciones JavaScript, especialmente aquellas que tienen interfaces de usuario complejas. Proporciona un enfoque predecible y centralizado para manejar el estado de una aplicación, lo que facilita el seguimiento y la actualización del estado a medida que la aplicación crece y se vuelve más compleja.
+
+# Context
+
+El Context es una característica que permite pasar datos a través del árbol de componentes sin necesidad de pasar props manualmente en cada nivel. Proporciona una forma de compartir datos entre componentes que están anidados en la jerarquía de componentes sin tener que pasar los datos explícitamente a través de las propiedades.
